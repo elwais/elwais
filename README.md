@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - Hi, I’m Elwais
-- My pronouns are he/him
 - I’m interested in Linux System Administration
 - I’m currently learning portions of Python's `subprocess` module
 - I'm originally from Palau
