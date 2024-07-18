@@ -15,14 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hi, I’m Elwais
-- I’m interested in Linux System Administration
-- I’m currently learning portions of Python's `subprocess` module
-- I'm originally from Palau
-- I'm a junior in the Systems track of Electrical Engineering
-- I chose my major... because I love math and computers
-- A fun fact about me: my love for math and computers came from making music
-- What do I want to learn from EE 205? C, C++, low-level programming, and good
-practices in programming
-- A series I'd recommend watching for people vaguely interested in physics is
-Caltech's television series, "The Mechanical Universe" (accessible via YouTube)
+I'm Elwais, a university student with an absurd fixation on configuring my linux-like workflow to be as close to perfection as I can get it to be (without neglecting my own life, of course.)
